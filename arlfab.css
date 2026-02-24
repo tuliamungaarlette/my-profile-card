@@ -1,0 +1,30 @@
+.myprofilecard{
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    flex-direction: column;
+    gap: 10px;
+   box-shadow: 0px 10px 15px;
+   padding:20px;
+}
+.head{
+    color: black;    
+}
+.image{
+    border: 10px;
+background-repeat: no-repeat;
+
+
+
+}
+.button{
+    background-color: aqua;
+    border:none;
+    padding: 8px;
+}
+.image img{
+border-radius: 50%;
+box-sizing: border-box;
+
+}
